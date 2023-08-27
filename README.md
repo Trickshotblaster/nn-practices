@@ -4,14 +4,14 @@ This is a repository to hold some of my practice work while forllowing Andrej Ka
 
 Some ai (MLP) generated names starting with 'bro':
 ```
-brosyeeeddexdnddx
-broidkkdyhedxnnni
-bromwdeydxdeddesn
-broadycxuhddnxuzn
-broexdendey
-brouynnioddedoued
-brotndeenedxd
-bronxxynedneixndo
-broninhednnsn
-bronldedele
+brogyacha.
+bro.
+brochi.
+broda.
+brovalley.
+brostianael.
+brossan.
+bron.
+brovine.
+brondina.
 ```
