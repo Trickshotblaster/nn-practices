@@ -38,3 +38,6 @@ aid.
 raclynn.
 inden.
 ```
+things i've learned:
+matmul represents feedforward, where size[0] of the second tensor is thoe output of the layer before it and size[1] is the number of neurons
+
