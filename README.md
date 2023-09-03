@@ -39,5 +39,8 @@ raclynn.
 inden.
 ```
 things i've learned:
-matmul represents feedforward, where size[0] of the second tensor is thoe output of the layer before it and size[1] is the number of neurons
+
+matmul represents feedforward, where size[0] of the second tensor is the output of the layer before it and size[1] is the number of neurons
+
+you can do pretty much anything to make the output and call backward on the loss, it doesn't have to be a conventional neural net
 
