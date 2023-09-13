@@ -44,3 +44,4 @@ inden.
 
 2) You can do pretty much anything to make the output and call backward on the loss, it doesn't have to be a conventional neural net. You can do things like multiply and add random numbers and it will all be accounted for.
 
+3) Vanishing gradients occurs when the activation function causes gradients to be zero, which are then propagated backward meaning some neurons don't learn
