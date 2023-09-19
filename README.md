@@ -2,6 +2,8 @@
 
 This is a repository to hold some of my practice work while forllowing Andrej Karpathy's amazing Neural Networks zero to hero series :)
 
+The EZMNIST file is just a fun little practice I did in like an hour to recognize handwritten digits. 
+
 Some ai (MLP) generated names starting with 'bro':
 ```
 brogyacha.
