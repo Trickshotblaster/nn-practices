@@ -1,6 +1,6 @@
 <h1>NN Practices</h1>
 
-This is a repository to hold some of my practice work while forllowing Andrej Karpathy's amazing Neural Networks zero to hero series :)
+This is a repository to hold some of my practice work while forllowing Andrej Karpathy's amazing Neural Networks zero to hero series :) Feel free to use anything here for your own learning!
 
 <h2>individual stuff</h2>
 The EZMNIST file is just a fun little practice I did in like an hour to recognize handwritten digits. (I only used google to find out how to load the dataset!). I feel like I now have a solid foundation and can pretty easily build up from here. Also GPU acceleration is really nice.
