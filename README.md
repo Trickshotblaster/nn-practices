@@ -6,7 +6,7 @@ This is a repository to hold some of my practice work while forllowing Andrej Ka
 The EZMNIST file is just a fun little practice I did in like an hour to recognize handwritten digits. (I only used google to find out how to load the dataset!). I feel like I now have a solid foundation and can pretty easily build up from here. Also GPU acceleration is really nice.
 
 
-actual_words.ipynb is an attempt at actually making something with a real tokenizer instead of character-level modeling. I'm not completely sure that it's learning, but it sounds at least somewhat shakespeare-like :) Maybe I'm just doing the cross entropy wrong.
+actual_words.ipynb is an attempt at actually making something with a real tokenizer instead of character-level modeling. I'm not completely sure that it's learning, but it sounds at least somewhat shakespeare-like :) Maybe I'm just doing the cross entropy wrong. (Update: I'm slowly going insane trying to train this model; I can't tell if I'm just not doing it right or the model is to small/not trained enough to fit the data)
 <h2>from the lessons</h2>
 Some ai (MLP) generated names starting with 'bro':
 
